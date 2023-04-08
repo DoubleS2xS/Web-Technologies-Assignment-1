@@ -1,0 +1,36 @@
+header{
+    margin-left: 40%;
+}
+#mainpage{
+    background-color: plum;
+}
+#infopage{
+    background: linear-gradient(skyblue,lightgreen);
+}
+#contacts{
+    background-color:lightsalmon
+}
+form{
+    background-color: whitesmoke;
+}
+ol{
+    border: 5px solid;
+	background: greenyellow;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+#success{
+    float: left;
+    display: flex;
+}
+#nextpages{
+    padding-left: 80%;
+}
+video{
+    clear: left;
+    padding: 40px;
+}
+iframe{
+    padding-left: 20%;
+    position: relative;
+}
